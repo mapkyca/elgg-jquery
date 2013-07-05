@@ -1,7 +1,7 @@
 Elgg JQuery update
 ==================
 
-A quick function that upgrades Elgg's installation of JQuery.
+A quick plugin that upgrades Elgg's installation of JQuery.
 
 Installation
 ------------
